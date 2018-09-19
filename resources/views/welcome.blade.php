@@ -78,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome To RunCloud
+                    Welcome To RunCloud...
                 </div>
 
                 <div class="links">
@@ -93,3 +93,4 @@
         </div>
     </body>
 </html>
+
