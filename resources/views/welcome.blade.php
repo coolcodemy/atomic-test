@@ -78,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome To Demo
+                    Welcome To RunCloud Demo
                 </div>
 
                 <div class="links">
